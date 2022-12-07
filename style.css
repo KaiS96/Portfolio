@@ -19,7 +19,7 @@ hr {
     border: 2px solid white;
 }
 
-/*Headings */
+/* Headings */
 
 h1 {
     font-size: 50px;
@@ -89,7 +89,7 @@ h3 {
 }
 /* Contact links */
 
-ul {
+ul, ol {
     list-style-position: inside;
     padding-right: 45px;
 }
@@ -108,8 +108,7 @@ a:active    {color: pink;}
 }
 
 img {
-    width: 60px;
-    height: 50px;
+    height: 20px;
     padding-right: 10px;
 }
 
